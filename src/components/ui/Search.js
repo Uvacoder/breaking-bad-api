@@ -23,3 +23,4 @@ const Search = ({ getQuery }) => {
 };
 
 export default Search;
+
