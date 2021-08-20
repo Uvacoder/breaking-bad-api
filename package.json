@@ -1,5 +1,5 @@
 {
-  "homepage": "http://caarlosdamian.github.io/Breaking-Bad-API",
+  "homepage": "https://breaking-bad-api-blue.vercel.app",
   "name": "breaking-bad",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,6 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -32,6 +31,7 @@
       ">0.2%",
       "not dead",
       "not op_mini all"
+      
     ],
     "development": [
       "last 1 chrome version",
